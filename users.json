@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "email": "user",
+        "password": "scrypt:32768:8:1$54YIEI0M2dM8G44h$980c56e82e3af3928f9e60f08561f4e161da749bac745bc116150e552eab49057171e6ba388fade0ae22a54591c3f1febf4a20128eaf205fa6929f325a92ab50"
+    },
+    {
+        "id": 2,
+        "email": "email.com",
+        "password": "1211"
+    }
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "id": 1,
+        "title": "Sinner",
+        "release_date": "2001",
+        "number_of_songs": 12,
+        "cover_image": "https://lh3.googleusercontent.com/nDE_Rh9gp29RVqYBVW_jbfBCuwDE8Pc-UmHiJpXUzf26GKGd13ik8Lar_iAfC2xEZ916UehPTLdV_LI=w544-h544-l90-rj",
+        "album_link": "https://music.youtube.com/playlist?list=OLAK5uy_moTfhhDPQJAVlZyADCFbG_zD0qjDzvrT4",
+        "tracks": [
+            {
+                "id": 1,
+                "title": "Bodies",
+                "duration": "4:05"
+            },
+            {
+                "id": 2,
+                "title": "Tear Away",
+                "duration": "3:25"
+            },
+            {
+                "id": 3,
+                "title": "Let the Bodies Hit the Floor",
+                "duration": "4:10"
+            },
+            {
+                "id": 4,
+                "title": "No More",
+                "duration": "3:35"
+            },
+            {
+                "id": 5,
+                "title": "Sinner",
+                "duration": "3:05"
+            },
+            {
+                "id": 6,
+                "title": "I Am",
+                "duration": "3:45"
+            },
+            {
+                "id": 7,
+                "title": "Virtue",
+                "duration": "4:00"
+            },
+            {
+                "id": 8,
+                "title": "One More Chance",
+                "duration": "3:50"
+            },
+            {
+                "id": 9,
+                "title": "Sick",
+                "duration": "4:00"
+            },
+            {
+                "id": 10,
+                "title": "Love and War",
+                "duration": "3:15"
+            },
+            {
+                "id": 11,
+                "title": "Reminded",
+                "duration": "3:40"
+            },
+            {
+                "id": 12,
+                "title": "Fear",
+                "duration": "3:55"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Full Circle",
+        "release_date": "2008",
+        "number_of_songs": 11,
+        "cover_image": "https://lh3.googleusercontent.com/9dTTB2TiIjqdNoFFaoRgM3PO9wfTK1p5B1n8ZtLEQbgxOs2dJOvGj8yxGLDKqmdpVaLHF3YNmYNFhZAs=w544-h544-s-l90-rj",
+        "album_link": "https://music.youtube.com/playlist?list=OLAK5uy_mmCIczln7Sy36jYpDY7-4EUOgxthvGqzk",
+        "tracks": [
+            {
+                "id": 1,
+                "title": "37 Stitches",
+                "duration": "3:35"
+            },
+            {
+                "id": 2,
+                "title": "Sinner",
+                "duration": "3:45"
+            },
+            {
+                "id": 3,
+                "title": "Full Circle",
+                "duration": "4:12"
+            },
+            {
+                "id": 4,
+                "title": "Tear Away",
+                "duration": "3:30"
+            },
+            {
+                "id": 5,
+                "title": "Shame",
+                "duration": "4:00"
+            },
+            {
+                "id": 6,
+                "title": "Steppin' Up",
+                "duration": "3:45"
+            },
+            {
+                "id": 7,
+                "title": "Pride",
+                "duration": "3:50"
+            },
+            {
+                "id": 8,
+                "title": "Harder Than Me",
+                "duration": "3:40"
+            },
+            {
+                "id": 9,
+                "title": "The River",
+                "duration": "4:05"
+            },
+            {
+                "id": 10,
+                "title": "Make Me Wanna Die",
+                "duration": "3:58"
+            },
+            {
+                "id": 11,
+                "title": "Love and War",
+                "duration": "3:45"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Drowning Pool",
+        "release_date": "2010",
+        "number_of_songs": 12,
+        "cover_image": "https://lh3.googleusercontent.com/7D65_2X1bYLZgxDmQfh2gRoUsRLACpiIoLm1uXbsV8GrUl9oTG2CQBRYJOGiHhs0zJIvhYArv-vMLqoZ=w544-h544-l90-rj",
+        "album_link": "https://music.youtube.com/playlist?list=OLAK5uy_m4K1ff_i0D4gODmIGcgRF2O3cUzE4Xo_s",
+        "tracks": [
+            {
+                "id": 1,
+                "title": "Feel Like I Do",
+                "duration": "3:45"
+            },
+            {
+                "id": 2,
+                "title": "One Finger and a Fist",
+                "duration": "3:58"
+            },
+            {
+                "id": 3,
+                "title": "Made of Scars",
+                "duration": "4:00"
+            },
+            {
+                "id": 4,
+                "title": "By the Blood",
+                "duration": "3:50"
+            },
+            {
+                "id": 5,
+                "title": "In a World So Cold",
+                "duration": "3:45"
+            },
+            {
+                "id": 6,
+                "title": "Children of the Grave",
+                "duration": "3:25"
+            },
+            {
+                "id": 7,
+                "title": "Murdered Love",
+                "duration": "4:00"
+            },
+            {
+                "id": 8,
+                "title": "The Chain",
+                "duration": "3:58"
+            },
+            {
+                "id": 9,
+                "title": "Lunatic",
+                "duration": "3:50"
+            },
+            {
+                "id": 10,
+                "title": "Alone",
+                "duration": "4:05"
+            },
+            {
+                "id": 11,
+                "title": "Jump Over the Edge",
+                "duration": "3:30"
+            },
+            {
+                "id": 12,
+                "title": "Sick of It All",
+                "duration": "3:50"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Hellelujah",
+        "release_date": "2016",
+        "number_of_songs": 11,
+        "cover_image": "https://lh3.googleusercontent.com/ubEkCCh4umHYRKmlJodmr72rmi7msumAIAE0Lf3F9B58_CgDR-QJG9S0LgDhzjRUJw7Ee93P2HvX-mQ=w544-h544-l90-rj",
+        "album_link": "https://music.youtube.com/playlist?list=OLAK5uy_kBJeYaWOicka7My6W_PAoSwIg5s_yQaTk",
+        "tracks": [
+            {
+                "id": 1,
+                "title": "Hell to Pay",
+                "duration": "3:35"
+            },
+            {
+                "id": 2,
+                "title": "Push",
+                "duration": "3:45"
+            },
+            {
+                "id": 3,
+                "title": "Sinner",
+                "duration": "3:55"
+            },
+            {
+                "id": 4,
+                "title": "By the Blood",
+                "duration": "4:00"
+            },
+            {
+                "id": 5,
+                "title": "Goddamn Vultures",
+                "duration": "3:25"
+            },
+            {
+                "id": 6,
+                "title": "The River",
+                "duration": "4:15"
+            },
+            {
+                "id": 7,
+                "title": "Silent Prayer",
+                "duration": "3:35"
+            },
+            {
+                "id": 8,
+                "title": "Bad Boy",
+                "duration": "4:00"
+            },
+            {
+                "id": 9,
+                "title": "Hellelujah",
+                "duration": "3:50"
+            },
+            {
+                "id": 10,
+                "title": "For the Record",
+                "duration": "4:00"
+            },
+            {
+                "id": 11,
+                "title": "Standoff",
+                "duration": "3:45"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Strike A Nerve",
+        "release_date": "2022",
+        "number_of_songs": 12,
+        "cover_image": "https://lh3.googleusercontent.com/kRIiDFVyQG-MFS6EnHpmDrdKAU3aE2t0bzcLO7BtjpONO3xFq9Y7YfunpDFWWbRDQpGJf3dfcnmusBsqEw=w544-h544-l90-rj",
+        "album_link": "https://music.youtube.com/playlist?list=OLAK5uy_lQzyZ51Tuz-KLCUb7ssKQLjLENBfRKrrA",
+        "tracks": [
+            {
+                "id": 1,
+                "title": "Strike a Nerve",
+                "duration": "3:50"
+            },
+            {
+                "id": 2,
+                "title": "Suffocate",
+                "duration": "4:05"
+            },
+            {
+                "id": 3,
+                "title": "Poison",
+                "duration": "3:40"
+            },
+            {
+                "id": 4,
+                "title": "One More",
+                "duration": "4:10"
+            },
+            {
+                "id": 5,
+                "title": "No Mercy",
+                "duration": "3:30"
+            },
+            {
+                "id": 6,
+                "title": "Torn",
+                "duration": "3:55"
+            },
+            {
+                "id": 7,
+                "title": "Wasteland",
+                "duration": "4:00"
+            },
+            {
+                "id": 8,
+                "title": "Rage",
+                "duration": "3:45"
+            },
+            {
+                "id": 9,
+                "title": "Embrace the Pain",
+                "duration": "4:00"
+            },
+            {
+                "id": 10,
+                "title": "Break Down",
+                "duration": "3:55"
+            },
+            {
+                "id": 11,
+                "title": "Fallen Angel",
+                "duration": "4:05"
+            },
+            {
+                "id": 12,
+                "title": "End of the Line",
+                "duration": "4:15"
+            }
+        ]
+    }
+]
